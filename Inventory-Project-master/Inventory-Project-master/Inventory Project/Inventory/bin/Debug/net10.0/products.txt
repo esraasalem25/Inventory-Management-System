@@ -1,0 +1,10 @@
+Laptop Pro|999|High-performance laptop for professionals|Electronics|15
+Smartphone X|799|Latest smartphone model|Electronics|30
+Wireless Headphones|199|Noise-cancelling headphones|Electronics|25
+Mechanical Keyboard|89|RGB mechanical keyboard|Electronics|40
+Gaming Mouse|49|Ergonomic gaming mouse|Electronics|50
+4K Monitor|299|27-inch 4K display|Electronics|20
+Tablet Air|499|Lightweight tablet|Electronics|18
+Smart Watch|299|Fitness tracking watch|Electronics|35
+Gaming Console|549|Next-gen gaming console|Electronics|22
+DSLR Camera|899|Professional camera|Electronics|12
